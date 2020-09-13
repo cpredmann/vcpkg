@@ -1,0 +1,10 @@
+Source: materialx
+Version: 1.37.2
+Description: MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
+
+Feature: openimageio
+Build-Depends: openimageio
+Description: Enable openimageio support for materialx
+
+Feature: viewer
+Description: Build MaterialXViewer
